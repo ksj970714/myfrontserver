@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React: 수정 사항 Commit 
+          Learn React: 기본 배포 파이프라인 구축 완료
         </a>
       </header>
     </div>
